@@ -7,7 +7,7 @@ ir>
 - ¿Qué comando o comandos utilizaste en el paso 12?¿Por qué? git reset e19a72c Por que necesitamos rehacer el último comit, le indico el hash del comit al que me referia. 
 
 
-- ¿El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
+- ¿El merge del paso 13, ¿Causó algún conflicto? ¿Por qué? git merge master. Me dijo que ya estaba uptodate, por que no detectava diferencias.
 
 - ¿El merge del paso 19, ¿Causó aĺgún conflicto? ¿Por qué?
 
