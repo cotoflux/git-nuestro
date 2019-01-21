@@ -1,7 +1,7 @@
 #Preguntas:
 
-- ¿Qué comando utilizaste en el paso 11?¿Por qué? git reset --hard HEAD~1 .Porque se me pedia que Deshacer el último commit perdiendo los cambios realizados en el working copy, si 
-hubise hecho git reset HEAD~1 no hubiera borrado el commit pero hubiera mantenido lo que tenia en mi working copy.
+- ¿Qué comando utilizaste en el paso 11?¿Por qué? Con git reset --hard HEAD~1 . El ejercicio pedia Deshacer el último commit perdiendo los cambios realizados en el 
+working copy, si hubise hecho git reset HEAD~1 hubiera mantenido lo que tenia en mi working copy.
 
 - ¿Qué comando o comandos utilizaste en el paso 12?¿Por qué? git reset e19a72c Por que necesitamos rehacer el último comit, le indico el hash del comit al que me referia. 
 
